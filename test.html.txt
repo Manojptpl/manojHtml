@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html len ="en">
+   <head>
+        <title>
+        </title>
+
+   </head>
+   <body>
+      <h1>This is a Heading Part</h1>
+      <p>this is a Paragraph Part</p>
+   </body>
+
+</html>
